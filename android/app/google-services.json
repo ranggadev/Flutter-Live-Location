@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443641360338",
+    "firebase_url": "https://live-location-rangga.firebaseio.com",
+    "project_id": "live-location-rangga",
+    "storage_bucket": "live-location-rangga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443641360338:android:f050ff62135fe406dda20b",
+        "android_client_info": {
+          "package_name": "com.teknoborneo.live_location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443641360338-6t8j4k2b16qummgakn88g2cntkak1tar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp2k7Fooar4GRYr4UiGhOIM0AH_q1vooQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443641360338-6t8j4k2b16qummgakn88g2cntkak1tar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
